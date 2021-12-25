@@ -7,7 +7,7 @@
 .atom/
 .buildlog/
 .history
-.svn/
+.svn/git 
 
 # IntelliJ related
 *.iml
